@@ -1,2 +1,2 @@
 # public
-Welcome in my git
+Welcome to my git
